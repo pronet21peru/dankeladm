@@ -173,11 +173,11 @@ fun_ip
 wget -O /usr/bin/trans https://raw.githubusercontent.com/scriptsmx/script/master/Install/trans &> /dev/null
 clear
 msg -bar2
-cowsay -f eyes "BIENVENIDO Y GRACIAS POR UTILIZAR NEW-ADM OFICIAL BY dankelthaher" | lolcat
+cowsay -f eyes "BIENVENIDO Y GRACIAS POR UTILIZAR NEW-ADM PRONETYT OFICIAL" | lolcat
 figlet dankelthaher | lolcat
  echo -e " "
 msg -bar2
-msg -bra "[ NEW - ULTIMATE - SCRIPT ] ➣ \033[1;33m[\033[1;34m OFICIAL BY-dankelthaher \033\033[1;33m]\033[0m"
+msg -bra "[ NEW - ADM - PRONETYT ] ➣ \033[1;33m[\033[1;34m OFICIAL BY-PRONETYT \033\033[1;33m]\033[0m"
 echo ""
 [[ $1 = "" ]] && funcao_idioma || {
 [[ ${#1} -gt 2 ]] && funcao_idioma || id="$1"
